@@ -6,4 +6,6 @@ https://github.com/NikithaThota16/AIML-BATCH-03/blob/main/Assignment_2_part_2.ip
 https://github.com/NikithaThota16/AIML-BATCH-03/blob/main/Assignment_2_part_3.ipynb
 https://github.com/NikithaThota16/AIML-BATCH-03/blob/main/Assignment_3.ipynb
 https://github.com/NikithaThota16/AIML-BATCH-03/blob/main/Assignment_4.ipynb
+https://github.com/NikithaThota16/AIML-BATCH-03/blob/main/Assignment_05.ipynb
+
 

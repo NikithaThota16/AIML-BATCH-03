@@ -14,6 +14,4 @@ https://github.com/NikithaThota16/AIML-BATCH-03/blob/main/Assignment_9.ipynb
 https://github.com/NikithaThota16/AIML-BATCH-03/blob/main/Assignment_10.ipynb
 
 
-https://github.com/NikithaThota16/AIML-BATCH-03/blame/main/Aiml_project.ipynb
-
-
+https://github.com/NikithaThota16/AIML-BATCH-03/blob/main/Aiml_project.ipynb
